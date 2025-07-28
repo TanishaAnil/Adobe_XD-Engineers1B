@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "input_documents": [
+            "collection1/South of France - Cities.pdf",
+            "collection1/South of France - Cuisine.pdf",
+            "collection1/South of France - History.pdf",
+            "collection1/South of France - Restaurants and Hotels.pdf",
+            "collection1/South of France - Things to Do.pdf",
+            "collection1/South of France - Tips and Tricks.pdf",
+            "collection1/South of France - Traditions and Culture.pdf",
+            "collection2/Learn Acrobat - Create and Convert_1.pdf",
+            "collection2/Learn Acrobat - Create and Convert_2.pdf",
+            "collection2/Learn Acrobat - Edit_1.pdf",
+            "collection2/Learn Acrobat - Edit_2.pdf",
+            "collection2/Learn Acrobat - Export_1.pdf",
+            "collection2/Learn Acrobat - Export_2.pdf",
+            "collection2/Learn Acrobat - Fill and Sign.pdf",
+            "collection2/Learn Acrobat - Generative AI_1.pdf",
+            "collection2/Learn Acrobat - Generative AI_2.pdf",
+            "collection2/Learn Acrobat - Request e-signatures_1.pdf",
+            "collection2/Learn Acrobat - Request e-signatures_2.pdf",
+            "collection2/Learn Acrobat - Share_1.pdf",
+            "collection2/Learn Acrobat - Share_2.pdf",
+            "collection2/Test Your Acrobat Exporting Skills.pdf",
+            "collection2/The Ultimate PDF Sharing Checklist.pdf",
+            "collection3/Breakfast Ideas.pdf",
+            "collection3/Dinner Ideas - Mains_1.pdf",
+            "collection3/Dinner Ideas - Mains_2.pdf",
+            "collection3/Dinner Ideas - Mains_3.pdf",
+            "collection3/Dinner Ideas - Sides_1.pdf",
+            "collection3/Dinner Ideas - Sides_2.pdf",
+            "collection3/Dinner Ideas - Sides_3.pdf",
+            "collection3/Dinner Ideas - Sides_4.pdf",
+            "collection3/Lunch Ideas.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T15:07:34.081238"
+    },
+    "extracted_sections": [
+        {
+            "document": "collection2/Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "cues indicating where generated information came from. However, because the AI A...",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "collection2/Learn Acrobat - Generative AI_1.pdf",
+            "section_title": "purposes that do not include training a Large Language Model (“LLM”). Examples o...",
+            "importance_rank": 2,
+            "page_number": 5
+        },
+        {
+            "document": "collection2/Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Certify options provide a higher level of document control than Digitally sign. ...",
+            "importance_rank": 3,
+            "page_number": 24
+        },
+        {
+            "document": "collection2/Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "• \nDownload Form Field Data - Downloads a CSV file of the field-level content fo...",
+            "importance_rank": 4,
+            "page_number": 19
+        },
+        {
+            "document": "collection1/South of France - Cuisine.pdf",
+            "section_title": "Culinary Experiences \nIn addition to dining at top restaurants, there are severa...",
+            "importance_rank": 5,
+            "page_number": 6
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "collection1/South of France - Cuisine.pdf",
+            "refined_text": "Culinary Experiences \nIn addition to dining at top restaurants, there are several culinary experiences you should \nconsider: \n• \nCooking Classes: Many towns and cities in the South of France oﬀer cooking classes \nwhere you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and \ntarte tropézienne. These classes are a great way to immerse yourself in the local \nculture and gain hands-on experience with regional recipes. Some classes even \ninclude a visit to a local market to shop for fresh ingredients. \n• \nFood Markets: Visit local markets such as the Cours Saleya Market in Nice or the \nMarché Forville in Cannes to sample fresh produce, cheeses, and charcuterie. These \nmarkets are a feast for the senses, with stalls overflowing with colorful fruits and \nvegetables, fragrant herbs, and artisanal products. Take the time to chat with the \nvendors and learn about the local specialties. \n• \nWine Tours: The South of France is renowned for its wine regions, including Provence \nand Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about \nthe winemaking process. Many wineries oﬀer guided tours and tastings, giving you the \nopportunity to sample a variety of wines and discover new favorites. Don't miss the \nchance to try rosé from Provence, which is famous for its light, refreshing flavor. \n• \nOlive Oil Tasting: The region is famous for its olive oil. Visit an olive grove to learn \nabout olive oil production and enjoy a tasting session. You'll have the chance to \nsample diﬀerent varieties of olive oil and learn about the nuances of flavor and aroma. \nMany olive groves also produce other products like tapenade and olive soap, which \nmake great souvenirs. \n• \nTruﬄe Hunting: The South of France is known for its truﬄes, particularly the black \ntruﬄes from the Périgord region. Join a truﬄe hunting tour to experience the thrill of \nsearching for these prized fungi. You'll be accompanied by a trained truﬄe dog and a \nknowledgeable guide who will teach you about the truﬄe's history and culinary uses. \nAfter the hunt, enjoy a truﬄe-themed meal featuring your freshly harvested finds. \n• \nFarm-to-Table Dining: Many restaurants in the South of France embrace the farm-to-\ntable philosophy, sourcing their ingredients from local farms and producers. Look for \nrestaurants that highlight seasonal, locally grown produce and sustainably raised \nmeats. Dining at a farm-to-table restaurant is a wonderful way to support local \nagriculture and enjoy the freshest ingredients available.",
+            "page_number": 6
+        },
+        {
+            "document": "collection2/Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "cues indicating where generated information came from. However, because the AI Assistant is \npowered by generative AI models, and the technology is still evolving and not perfect, not all \nanswers are helpful or accurate. As a result, the AI Assistant may not find and display answers \nto your questions — even when the information is in your document. And rarely, the AI \nAssistant may provide incorrect attributions. For example, you may receive a clickable citation \nor cue that takes you to an unrelated section instead of providing helpful information on \nwhere the answer came from in the document. Please double-check all AI-generated \nresponses. \nPlease note that in our current version, if the language of the question and response is \ndifferent than the language of your document, AI Assistant won't provide any attribution. In \nsuch scenarios, you can try asking questions in the language of the document to receive \nclickable citations in the response.  \nFeedback \nWe provide a feedback mechanism directly within the AI Assistant to help us improve \naccuracy and other performance issues. This is an ongoing process, and we will continue to \nwork together with our customers and community to harness the power of this new \ntechnology responsibly. \nContent usage and handling practices \nThis FAQ addresses Adobe’s content usage and handling practices specific to improving \ngenerative AI capabilities in Adobe Acrobat and Adobe Acrobat Reader. For purposes of this \nFAQ, references to “generative AI capabilities” are specific to Acrobat AI Assistant and \nGenerative summary only. To learn more about how Adobe may analyze metadata and \ninformation about your prompt (for example, question type) and document (for example, \nnumber of pages, document structure, document type, and other document statistics) for \nproduct improvement purposes in Document Cloud generally, see our content analysis FAQ. \nFor more information about Adobe’s security, privacy, and AI ethics practices, see the Adobe \nDocument Cloud security page (and other materials in our Trust Center), the Adobe Privacy \nPolicy, and the Adobe AI Ethics page, respectively. \n \nWill adobe ever look at your content while you’re using generative ai in acrobat and \nacrobat reader? \nWe do not look at your document, prompt(s), or generated responses except in the instances \ndescribed below. \n• \nReported content, bugs, or vulnerabilities. When you report content (e.g., for being \nharmful, illegal, offensive, etc.), we investigate it by manually reviewing the document, \nprompt(s), and generated responses to make adjustments to the service to address the \nissue. \n• \nUser-Provided Feedback. For Acrobat Individual users* and Acrobat Reader users that \nprovide feedback, you have the option to share with us your document, prompt(s), \nand generated responses during a document session for product improvement",
+            "page_number": 4
+        },
+        {
+            "document": "collection2/Learn Acrobat - Generative AI_1.pdf",
+            "refined_text": "purposes that do not include training a Large Language Model (“LLM”). Examples of \nproduct improvement include improving the operability of generative AI in Acrobat \nand Acrobat Reader, as well as reducing hallucination, bias, and toxicity. If you do not \nwish to share your content, please uncheck the product improvement checkbox when \nyou first provide feedback on a document. \nIf manual review of your content takes place, a limited group of trained Adobe personnel \nexamine the content within an encrypted repository with access controls. \nWhat steps do we take to protect your content when you share it with us as part of \nproviding feedback? \n• \nWhen you share your documents, textual prompts, and the generated responses with \nus when providing feedback, we take steps to filter out personal information by \napplying data masking procedures to this content (i.e., replacing personal information \nwith predefined categories using Named Entity Recognition, e.g., replacing “John \nSmith” with “PERSON”) prior to using the content for product improvement. \n• \nContent is stored for 30 days in an encrypted, siloed, Adobe-controlled environment \nwith strict access controls. You can always contact us via the form in our Privacy \nPolicy if you want us to delete this data sooner, or if you want to opt out of the use of \nyour content to improve generative AI capabilities in Acrobat and Acrobat Reader.  \n \nIf you flag content as being harmful, illegal, or offensive or if you contribute content as \nfeedback, how long do we retain that content? \nThe flagged content is only retained for 30 days unless we have other legal reasons to retain it \naccess as described in our Privacy Policy. You can always contact us via the form in our \nPrivacy Policy if you want us to delete this data sooner. \nDo acrobat’s generative ai features process my documents when i launch the application or \nopen a file in the application? \nNo. To access Acrobat generative AI features, you must sign into your Adobe account \nand agree to the Adobe Generative AI User Guidelines surfaced in a one-time “Getting \nStarted” experience when you first interact with such features in Acrobat. This activates the \ngenerative AI feature set in Acrobat for all subsequent document sessions. After activation, a \nuser must engage AI Assistant or generative summary on a specific file before processing \ntakes place. \nIf I’m signed into my adobe account, does acrobat’s generative ai features automatically \nstart processing my documents when I launch the application, or open a file in the \napplication? \nNo. Acrobat’s generative AI features, like AI Assistant, do not start automatically processing \nany of your documents upon application launch or upon opening a file into the application. A \nuser must first activate the generative AI feature set through a one-time “Getting Started” in-",
+            "page_number": 5
+        },
+        {
+            "document": "collection2/Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "• \nDownload Form Field Data - Downloads a CSV file of the field-level content for all \nchild agreements spawned from this parent Bulk Send that have been completed. \n• \nDownload Individual Files - Provides the option to download the individual PDF files \nif multiple files were used to create the web form. \n• \nHide/Unhide Bulk Send- Hide/Unhiding the Bulk Send simply removes (or adds) the \nBulk Send from your normal Manage page view. \n• \nShare - Shares the Bulk Send along with its status with the user email you provide. \nShared web forms can be viewed on the Manage page, but do not allow editing. \n• \nA PDF copy of the Bulk Send parent document (without added fields) is emailed to the \nsharee. \n• \nView Activity Report \n• \nView the current status of all child agreements created by the Bulk Send parent \ntemplate. \n• \nAdd Notes - Allows the user to make personal notes for the Bulk Send. \n• \nAgreements summary/filter (green square) - The Agreements section shows up to five \nvalues that reflect the number of child agreements in each status. If no child \nagreements are in a given status, the status is not exposed, so you may see fewer than \nfive line items. Clicking any one status will produce a filter list of those child \nagreements: \n• \nAll - Shows all (child) agreements that have spawned from the Bulk Send (parent \ntemplate). \n• \nIn Progress - Indicates that the child agreement is waiting for the participant to \ncomplete their signature. \n• \nCanceled - Indicates that either the sender explicitly canceled the child agreement, or \nthe participant declined to sign. \n• \nCompleted - Completed agreements have successfully obtained all signatures from all \nparticipants on the agreement. \n• \nWaiting for You - Indicates that the agreement is waiting for the sender to countersign \nthe agreement. \n• \nActivity for the Bulk Send parent template (orange square) - The Activity > link at the \nbottom of the context panel opens a chronological list of the enablement actions \ntaken against the (parent) Bulk Send template (eg: Creation, Completed events). \nAdobe Acrobat supports a range of solutions for electronic and digital signatures. These \nsolutions include certificate signatures that let you sign PDF files with a certificate-based \ndigital ID. Certificate signatures are also known as digital signatures. Acrobat lets you create \nyour certificate ID. However, the common approach is to work with a certificate ID from a \ntrusted third-party certificate authority. Additional signing options in Acrobat include \nintegration with Adobe Acrobat Sign.",
+            "page_number": 19
+        },
+        {
+            "document": "collection2/Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "Certify options provide a higher level of document control than Digitally sign. For documents \nthat require certification, you must certify the documents before others sign them. If a \ndocument has already been signed, the Certify options are disabled. When you certify a \ndocument, you can control the types of changes other people can make. You can certify with \nor without displaying a signature. \nSignatures made with the Certify or Digitally sign options comply with data protection \nstandards specified by the European Telecommunications Standards Institute (ETSI). In \naddition, both signature types comply with the PDF Advanced Electronic Signature (PAdES) \nstandard. Acrobat and Acrobat Reader provide an option to change the default signing format \nto a CAdES format. This option is compliant with Part 3 of the PAdES standard. The timestamp \ncapability and native support for long-term validation of signatures (introduced in Acrobat \n9.1) is in compliance with Part 4 of the PAdES standard. The default signing format, when set \nup accordingly, is compliant with Part 2 of the PAdES standard. You can change the default \nsigning method or format, in the Signatures panel of the Preferences dialog box. Under \nCreation & Appearance, click More. \n \nSetting up certificate-based signatures \nYou can expedite the signing process and optimize your results by making the following \npreparations in advance. \nNote:  \nSome situations require using particular digital IDs for signing. For example, a corporation or \ngovernment agency can require individuals to use only digital IDs issued by that agency to \nsign official documents. Inquire about the digital signature policies of your organization to \ndetermine the appropriate source of your digital ID. \n• \nGet a digital ID from your own organization, buy a digital ID (see the Adobe website \nfor security partners), or create a self-signed one. See Create a self-signed digital ID. \nYou can’t apply a certificate-based signature without a digital id. \n• \nSet the default signing method. \n• \nCreate an appearance for your certificate-based signature. (See Create the signature \nappearance.) \n• \nUse the Preview Document mode to suppress any dynamic content that can alter the \nappearance of the document and mislead you into signing an unsuitable document. \nFor information about using the Preview Document mode, see Sign in Preview \nDocument mode. \n• \nReview all the pages in a document before you sign. Documents can contain signature \nfields on multiple pages. \n• \nConfigure the signing application. Both authors and signers should configure their \napplication environment. (See Set signing preferences).",
+            "page_number": 24
+        }
+    ]
+}
